@@ -1,0 +1,47 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Library/
+lfs/
+hooks/
+ProjectSettings/BurstAotSettings_StandaloneWindows.json
+ProjectSettings/CommonBurstAotSettings.json
+
+.vs/
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+.vs/
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ========= #
+# Logs #
+# ========= #
+Logs/
+
+# ========= #
+# User Settings #
+# ========= #
+UserSettings/
